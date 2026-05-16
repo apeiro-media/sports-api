@@ -1,0 +1,1 @@
+export { FootballProvider } from './provider';
